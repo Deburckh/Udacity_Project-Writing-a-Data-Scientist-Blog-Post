@@ -13,4 +13,6 @@ Motivation:
 Files:
 - In this repository you can find the jupyter notebook I used for the analysis and the three data sets (calander.csv for bookings, listings.csv for accommodation specific data and reviews.csv for review data), all packaged into one .zip file. 
 
-
+Summary: 
+- Question 1: Test
+-   Test
