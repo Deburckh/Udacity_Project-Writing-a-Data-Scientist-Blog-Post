@@ -8,5 +8,4 @@ Libraries:
 - Seaborn
 
 Motivation:
-  
-  test
+- In this project I had a look at the accommodation prices for Seattle based Airbnb's. I tried to answer three questions 
