@@ -1,5 +1,7 @@
 # Udacity_Project-Writing-a-Data-Scientist-Blog-Post
 
+The blog post can be found here: https://medium.com/@Dennis.Burckhardt/how-to-find-the-cheapest-airbnb-in-seattle-8caa470539d8
+
 Libraries & Installations:
 - Pandas
 - Numpy
@@ -9,11 +11,14 @@ Libraries & Installations:
 - Python 
 - Jupyter Notebooks 
 
-Motivation:
-- In this project I had a look at the accommodation prices for Seattle based Airbnb's. I tried to answer three questions all regarding the price of an accommodation, including seasonal fluctuations, differences in neighbourhoods and whether it is possible to predict future prices based on given features. 
+Project Motivation:
+- In this project I had a look at the accommodation prices for Seattle based Airbnb's. It's difficult enough to find the best value stay for your money, so I tried to make it a little bit easier for you with this analysis. I tried to answer three questions all regarding the price of an accommodation, including seasonal fluctuations, differences in neighbourhoods and whether it is possible to predict future prices based on given features. 
 
 Files:
 - In this repository you can find the jupyter notebook I used for the analysis and the three data sets (calander.csv for bookings, listings.csv for accommodation specific data and reviews.csv for review data), all packaged into one .zip file. 
+
+How to interact with the project: 
+- There are two way you can interact with my project. The first is to download all the files and take a look at the data analysis yourself. The second, which might be easier and faster, is to take a look at the blog post I wrote which summarizes to key insights in a quick read.
 
 Summary: 
 - Question 1: Are there any seasonal fluctuations regarding the price of an accomodation, for example is the summer more expensive than the winter? 
