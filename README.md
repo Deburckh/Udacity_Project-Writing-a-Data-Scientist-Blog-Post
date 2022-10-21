@@ -29,3 +29,12 @@ Summary:
 
 - Question 3: Can we make a prediction on the price using different features?
   - Despite there being way less predicted values, the overall trend seems to be very similar, with a peak in the same spot. Therefore it seems reasonable to say that a prediction on the price is somewhat possible, given the circumstances.
+
+Authors:
+- Dennis Burckhardt
+
+Licensing: 
+- There is none at this moment.
+
+Acknowledgements:
+- Udacity Data Science Nanodegree Tutors :)
